@@ -2,4 +2,4 @@
 
 resolver = "2"
 
-members = [ "hello-world" ]
+members = [ "hello-world" , "route-guide" ]
